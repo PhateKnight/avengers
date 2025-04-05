@@ -2,4 +2,4 @@
 
 * Dr. Dom
 * Red Skull
-* Dr. Herrera
+* Capitan America
