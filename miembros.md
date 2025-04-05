@@ -18,3 +18,4 @@
 * Wasp
 * Antman
 * Ojo de Alcon
+* Capitan Marvel
